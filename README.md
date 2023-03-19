@@ -1,4 +1,5 @@
 # rishplot on Python
+rishplot is a Python library for creating complex, customized subplots in Matplotlib using a simple, intuitive syntax.
 
 This is a library for visualize your graph, more better.
 In addition, you can easier plot graphs even though it was complex such as multiple graph, has a variety figure size.
@@ -32,6 +33,6 @@ import rishplot as rip
 see documentation [here](example/README.md)
 
 
-## Credits
+### Acknowledgments
 
 This library was created in collaboration with ChatGPT, a language model trained by OpenAI. ChatGPT provided valuable feedback and suggestions for improving the library's functionality and documentation.
