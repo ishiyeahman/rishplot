@@ -2,7 +2,7 @@
 
 ## 1. multiple figure
 
-run : [sample_mosaic.py](example/src/sample_mosaic.py)
+run : [sample_mosaic.py](src/sample_mosaic.py)
 
 output:
 ![sample_mosaic](fig/example_mosaic.png)
