@@ -2,7 +2,11 @@
 
 ## 1. multiple figure
 
-run [sample_mosaic.py](example/src/sample_mosaic.py)
+run : [sample_mosaic.py](example/src/sample_mosaic.py)
+
+output:
+![sample_mosaic](fig/example_mosaic.png)
+
 ### Usage
 
 The `plot_mosaic` function can be used to create a grid of subplots with different types of plots on each subplot. The function takes in the following arguments:
